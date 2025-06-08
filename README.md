@@ -3,9 +3,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 A dedicated Computer Science student, striving for practical expertise  
-- 💡 Passionate about Full Stack Development, Artificial Intelligence, Cybersecurity, and Cloud Computing  
-- 🧠 Believe in concept-based learning rather than rote memorization  
-- 🛠️ Skilled in C, C++, Java, Python — and transitioning smoothly into development with Java & DSA  
+- 💡 Passionate about Full Stack Development, Artificial Intelligence,and Cybersecurity.
+- 🛠️ Skilled in C, C++, Java, Python — and transitioning smoothly into competitive programming with Java & DSA  
 - 💬 Bilingual: Fluent in English and Urdu — strong communicator and aspiring educator  
 - 🧩 Quick at debugging, logically analyzing code, and adapting AI-generated outputs for real-world use  
 - 📘 Always learning — be it web, DSA, or AI — with the goal of becoming a versatile engineer  
@@ -29,5 +28,4 @@
 
 ## ⚡ Fun Fact
 > "Even in a places where internet and phone signals disappear, I stay connected — through logic, code, and the passion to build."
-
 > "My journey isn't powered by privilege, it's powered by persistence. I don't scroll, but debug."
