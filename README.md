@@ -25,7 +25,7 @@
 ## 📫 How to Reach Me
 - Email: shafahatnisar@gmail.com  
 - GitHub: [github.com/Shafahat565](https://github.com/Shafahat565)
-- LinkedIn:https://linkedin.com/www.linkedin.com/in/shafahat-nisar-724b012b9
+- LinkedIn:[linkedin.com/ShafahatNisar](https://linkedin.com/www.linkedin.com/in/shafahat-nisar-724b012b9)
 
 ## ⚡ Fun Fact
 > "Even in a places where internet and phone signals disappear, I stay connected — through logic, code, and the passion to build."
