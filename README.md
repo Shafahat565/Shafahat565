@@ -23,8 +23,9 @@
 - Projects that involve teamwork, teaching, or real-world application  
 
 ## 📫 How to Reach Me
-- Email: shafahatnisar@example.com  
-- GitHub: [github.com/Shafahat565](https://github.com/Shafahat565)  
+- Email: shafahatnisar@gmail.com  
+- GitHub: [github.com/Shafahat565](https://github.com/Shafahat565)
+- LinkedIn:[linkedin.com/www.linkedin.com/in/shafahat-nisar-724b012b9](https://linkedin.com/www.linkedin.com/in/shafahat-nisar-724b012b9)
 
 ## ⚡ Fun Fact
 > "Even in a places where internet and phone signals disappear, I stay connected — through logic, code, and the passion to build."
